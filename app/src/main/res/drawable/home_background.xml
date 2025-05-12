@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Top Solid Teal Background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#00D2A8"/>
+        </shape>
+    </item>
+
+    <!-- Bottom Rounded White Card -->
+    <item android:top="240dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#F5FFF9"/>
+            <corners android:topLeftRadius="40dp" android:topRightRadius="40dp"/>
+        </shape>
+    </item>
+</layer-list>

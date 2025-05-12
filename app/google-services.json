@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923070234081",
+    "project_id": "opensource-part-2",
+    "storage_bucket": "opensource-part-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923070234081:android:dbb9053eefc8070a7ee6a0",
+        "android_client_info": {
+          "package_name": "com.example.opensourcepart2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJYqa9Qd9yF-WbP12MA_OTXHolgb2kF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
